@@ -2,7 +2,7 @@
 
 **Disciplina:** Banco de Dados I – 2025/2  
 **Autor:** Material didático acadêmico  
-
+[Site para visualizar o conteúdo](https://basicosql.netlify.app/introducao.html)
 ---
 
 ## 🧭 Visão Geral  
